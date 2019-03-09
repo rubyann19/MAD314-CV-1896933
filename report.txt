@@ -1,0 +1,10 @@
+>>git init- This command helped me to Create a new local repository.
+>>pwd- this shows present working directory
+>>cd -Indicates change directory
+>>ls- It gives the list of files 
+>>git clone /path/to/repository- It Creates a working copy of a local repository:
+>>git add <filename>-Add one or more files to staging (index):
+>>git commit -m "Commit message"- Commit changes to head (but not yet to the remote repository):
+>>git commit -a -Commit any files  added with git add, and also commit any files you've changed since then:
+>>git push -Send changes to the master branch of your remote repository:
+>>git status-List the files you've changed and those you still need to add or commit:
